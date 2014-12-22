@@ -36,9 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The ouerthrovv of the gout written in Latin verse, by Doctor Christopher BalistaIn podagram concerta
+
+1. TO THE RIGHT Worshipful, his very good Frende M. RICHARD MAISTERS Doctor in Phiſick, and Seruant to her excellent Maieſtie.
+
 #####Body#####
-The ouerthrovv of the gout written in Latin verse, by Doctor Christopher BalistaIn podagram concerta
+
+1. ❧The Ouerthrowe of the GOVTE.
+
+1. A Dialogue betwixt the Gout and Cri. Baliſta.
+
 **Types of content**
 
   * There are 833 **verse** lines!
